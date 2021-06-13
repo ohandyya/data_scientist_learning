@@ -1,4 +1,4 @@
-# Learning resources for data scientist
+# Learning Resources for Data Scientist
 
 ## About this document
 
@@ -75,3 +75,11 @@ Instead of listing out the resources/courses that I find useful, I take a differ
 For each `responsibility` (see [data scientist responsibilities](#what-are-the-responsibilities-of-data-scientists?) for the list), I will explain what it is, what does it include, and what are the `skill sets`. Then, I will share the `resources` that I find useful for these skill sets.
 
 In this way, I ensure that I only spend time studying the resources that can help me with the expected responsibility as a data scientist.
+
+## Data scientist responsibilities and learning resources
+
+1. [Build data pipeline](build_data_pipeline.md)
+
+## Unclassified Learning Resources
+
+See [here](unclassified_resources.md) for other useful resources that are not classified (yet) in any of the responsibility.
