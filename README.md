@@ -4,9 +4,10 @@
 
 ### What is it?
 
-- A curated and **opinionated** list of the learning resources for data scientist.
+- A **curated** and **opinionated** list of the learning resources for **data scientist**.
   - During my professional career, I have always been thinking what can I learn to improve myself. While there are a lot of resources on the internet, deciding what resources to learn with my limited amount time can yield the highest return is actually a time consuming process.
   - This document is the resources/classes that I think can help improve myself as a data scientist, which **may or may not** work for you.
+  - When I use the word **data scientist**, I actually refer to the union of data analysts, data scientists, and data engineers. See [What is a data scientist](#what-is-a-data-scientist) for my viewpoint.
 - Focus more on technical skill, and less on soft (people) or management skill.
 
 ### Who is this document for?
