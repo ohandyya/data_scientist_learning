@@ -42,10 +42,10 @@ While the separation makes sense from a hiring perspective, I don't see it make 
     - In most cases, raw data are not suitable for data analysis. They need to be read, cleaned, and processed data before they can be used in data analysis
     - This is also referred to as `extract, transform, load (ETL)`.
     - Traditionally, this is what data engineers do.
-2. Analyze existing data to extract business value
-    - `Business value` may come in various forms. But the most common form is find answer for a particular problem.
+2. Analyze data to extract business value
+    - `Business value` may come in various forms. But the most common form is find answer for a particular business problem. For example, explain why the system behaves like this, what can be done to increase the revenue and reduce cost.
     - Traditionally, this is what data analysts do.
-3. Develop models for a business problem
+3. Develop models for business problems
     - Common situations
         - The models may be machine learning models, signal processing algorithms, are combinations of both.
         - The data scientist may need to design experiments to collect the data, if there is no data available.
@@ -62,7 +62,7 @@ While the separation makes sense from a hiring perspective, I don't see it make 
         3. Creating a website where user can interact with the new model
         4. Creating an stand-alone tool (say, a Docker image) for user to run the model locally
     - Traditionally, this is what data scientists do.
-5. Implement the model in production
+5. Implement model in production
     - Traditionally, this is what data engineers or software engineers do.
     - However, since the data scientist is the one who create the algorithm, it is inevitable for the data scientist to be heavily involved in the productionalization process. In some small-mid size companies, it is also not uncommon to ask the data scientist to write production code, or at least part of it.
 
