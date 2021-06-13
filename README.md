@@ -28,11 +28,11 @@ Despite no universally agreed definition for data scientist, here is my viewpoin
 
 ***A data scientist is someone who creates value out of data.***
 
-There are several ways to `create value` out of data. And based on `how to create value`, people have divided the job title into
+There are several ways to `create value` out of data. And based on the `how` to create value, people have created different job titles.
 
 - Data analysts: analyze existing data to answer business problem
 - Data scientist: create algorithm/model to solve business problem
-- DAta engineer: build algorithm/model in production
+- Data engineer: build algorithm/model in production
 
 While the separation makes sense from a hiring perspective, I don't see it make much sense from a learning perspective. Therefore, in this document I include all of them in the big `data scientist` umbrella.
 
@@ -45,30 +45,30 @@ While the separation makes sense from a hiring perspective, I don't see it make 
 2. Analyze existing data to extract business value
     - `Business value` may come in various forms. But the most common form is find answer for a particular problem.
     - Traditionally, this is what data analysts do.
-3. Develop algorithms/models for a business problem
+3. Develop models for a business problem
     - Common situations
-        - The algorithms/models may be machine learning algorithms, signal processing algorithms, are combinations of both.
+        - The models may be machine learning models, signal processing algorithms, are combinations of both.
         - The data scientist may need to design experiments to collect the data, if there is no data available.
         - The data scientist may need to define the performance evaluation metric. It needs to be not only computable but also understandable by the stakeholder. It needs to be computable so that it can be used in the algorithm development. It needs to be understandable so that the stakeholders can understand the outcome of the algorithm.
-        - After the algorithms/models are built, it is the data scientist's job to present the result to stakeholders. This means data scientists are expected to explain the algorithms/models to non-technical people (stakeholders). Data scientists are also expected to make a product suggestion.
+        - After the models are built, it is the data scientist's job to present the result to stakeholders. This means data scientists are expected to explain the algorithms/models to non-technical people (stakeholders). Data scientists are also expected to make a product suggestion.
     - Traditionally, this is what data scientists do.
 4. Create a prototype
-    - There are two purposes for creating a prototype of the developed algorithm.
-        1. It can be used either internally or by alpha customers to realize the business value **before** the new algorithm is put into production.
-        2. It will be the reference point when ths new algorithm is being implemented in production.
+    - There are two purposes for creating a prototype of the developed model.
+        1. It can be used either internally or by alpha customers to realize the business value **before** the new model is put into production.
+        2. It will be the reference point when ths new model is being implemented in production.
     - There are various ways of realizing the prototype. The commons ways are:
         1. Creating a http endpoint
         2. Creating an importable code module
-        3. Creating a website where user can interact with the new algorithm
-        4. Creating an stand-alone tool (say, a Docker image) for user to run the algorithm locally
+        3. Creating a website where user can interact with the new model
+        4. Creating an stand-alone tool (say, a Docker image) for user to run the model locally
     - Traditionally, this is what data scientists do.
-5. Implement the algorithm in production
-    - Traditionally, this is what either data engineers or software engineers do.
+5. Implement the model in production
+    - Traditionally, this is what data engineers or software engineers do.
     - However, since the data scientist is the one who create the algorithm, it is inevitable for the data scientist to be heavily involved in the productionalization process. In some small-mid size companies, it is also not uncommon to ask the data scientist to write production code, or at least part of it.
 
 ### Structure of the document
 
-Instead of listing out the resources/courses that I find useful, I decide to take a different approach.
+Instead of listing out the resources/courses that I find useful, I take a different approach.
 
 #### The approach
 
