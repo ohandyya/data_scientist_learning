@@ -2,6 +2,5 @@
 
 ## Summary
 
-### Purpose
-
-- List 
+- [] A curated and **opinionated** 
+- [] test
