@@ -2,5 +2,5 @@
 
 ## Summary
 
-- [] A curated and **opinionated** 
-- [] test
+- [x] A curated and **opinionated** 
+- [ ] test
