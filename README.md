@@ -58,13 +58,14 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Science: basic statistics
         - Science: basic machine learning
         - [Programming best practices](#Programming-best-practices)
-        - Programming: python
+        - [Programming: python](#Programming-python)
+        - [Programming: Golang](#Programming-Golang)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn) 
-        - Technology: Docker
-        - Technology: Spark
-        - Technology: AWS
-        - Technology: Azure
-        - Technology: GCP
+        - [Technology: Docker](#Technology-Docker)
+        - [Technology: Spark](#Technology-Spark)
+        - [Technology: AWS](#Technology-AWS)
+        - [Technology: Azure](#Technology-Azure)
+        - [Technology: GCP](#Technology-GCP)
 2. Analyze data to extract business value
     - Description
         - `Business value` may come in various forms. But the most common form is find answer for a particular business problem. For example, explain why the system behaves like this, what can be done to increase the revenue and reduce cost.
@@ -74,7 +75,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Good understanding of the business (what is valuable, what is the operation cost, etc)
         - Science: basic statistics
         - Science: basic machine learning
-        - Programming: python
+        - [Programming: python](#Programming-python)
         - Technology: data visualization
 3. Develop models for business problems
     - Description
@@ -89,15 +90,15 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Good understanding of the business (what is valuable, what is the operation cost, etc)
         - Science: basic statistics
         - Science: basic machine learning
-        - Science: advanced machine learning
-        - Programming: python
+        - [Science: advanced machine learning](#Science-advanced-machine-learning)
+        - [Programming: python](#Programming-python)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn)
-        - Technology: Tensorflow
+        - [Technology: Tensorflow](#Technology-Tensorflow)
         - Technology: PyTorch
-        - Technology: Docker
-        - Technology: AWS
-        - Technology: Azure
-        - Technology: GCP
+        - [Technology: Docker](#Technology-Docker)
+        - [Technology: AWS](#Technology-AWS)
+        - [Technology: Azure](#Technology-Azure)
+        - [Technology: GCP](#Technology-GCP)
 4. Create a prototype
     - Description
         - There are two purposes for creating a prototype of the developed model.
@@ -110,32 +111,34 @@ For some `skill set`, I will include the resources that I find useful in improvi
             4. Creating an stand-alone tool (say, a Docker image) for user to run the model locally
         - Traditionally, this is what data scientists do.
     - Skill sets
-        - Programming: write clean, maintainable, testable code.
-        - Programming: python
+        - [Programming best practices](#Programming-best-practices)
+        - [Programming: python](#Programming-python)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn)
-        - Technology: Tensorflow
+        - [Technology: Tensorflow](#Technology-Tensorflow)
         - Technology: PyTorch
-        - Technology: Docker
+        - [Technology: Docker](#Technology-Docker)
         - Technology: Protobuf
-        - Technology: AWS
-        - Technology: Azure
-        - Technology: GCP
-        - Technology: Rest API development
-        - Technology: gRPC
+        - [Technology: AWS](#Technology-AWS)
+        - [Technology: Azure](#Technology-Azure)
+        - [Technology: GCP](#Technology-GCP)
+        - [Technology: Rest API](#Technology-Rest-API)
+        - [Technology: gRPC](#Technology-gRPC)
 5. Implement model in production
     - Description
         - Traditionally, this is what data engineers or software engineers do.
         - However, since the data scientist is the one who create the algorithm, it is inevitable for the data scientist to be heavily involved in the productionalization process. In some small-mid size companies, it is also not uncommon to ask the data scientist to write production code, or at least part of it.
     - Skill sets
-        - Programming: write clean, maintainable, testable code
-        - Programming: System design
-        - Technology: Docker
+        - [Programming best practices](#Programming-best-practices)
+        - [Programming: System design](#Programming-System-design)
+        - [Programming: python](#Programming-python)
+        - [Technology: Docker](#Technology-Docker)
         - Technology: Protobuf
-        - Technology: AWS
-        - Technology: Azure
-        - Technology: GCP
-        - Technology: Rest API development
-        - Technology: gRPC
+        - [Technology: Terraform](#Technology-Terraform)
+        - [Technology: AWS](#Technology-AWS)
+        - [Technology: Azure](#Technology-Azure)
+        - [Technology: GCP](#Technology-GCP)
+        - [Technology: Rest API](#Technology-Rest-API)
+        - [Technology: gRPC](#Technology-gRPC)
         - Technology: Databases
         - Technology: Kubernetes
         - Technology: Jenkins
@@ -145,25 +148,95 @@ For some `skill set`, I will include the resources that I find useful in improvi
 ### Programming best practices
 
 - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?crid=34434EFXB4FPV&dchild=1&keywords=clean+architecture&qid=1624128513&sprefix=clean+architcture%2Caps%2C165&sr=8-1)
-  - Status: In Progress
 
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?crid=6NFNMM3E5U9T&dchild=1&keywords=the+pragmatic+programmer&qid=1624128656&sprefix=The+pragmatic+%2Caps%2C164&sr=8-1)
-  - Status: Backlog
 
 - [SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/course/solid-principles-object-oriented-design-architecture/)
-  - Status: Completed (6/7/2020)
 
 - [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
-  - Status: Paused
+
+-[The twelve-factor app](https://12factor.net/)
+
+### Programming: System design
+
+- [AWS Lambda & Serverless Architecture](https://www.udemy.com/course/aws-lambda-serverless-architecture/)
 
 ### Programming: python
 
 - [Python Cookbook](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377/ref=sr_1_3?crid=JQTU3RVB4T97&dchild=1&keywords=python+cookbook&qid=1624128807&sprefix=python+cook%2Caudible%2C159&sr=8-3)
-  - Status: Paused
 
 - [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?crid=1N7X8LWWLACDA&dchild=1&keywords=fluent+python&qid=1624128911&s=books&sprefix=fluen%2Cstripbooks%2C165&sr=1-1)
-  - Status: Completed
+
+### Technology: Docker
+
+- [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
+
+### Technology: Spark
+
+- [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
+
+### Technology: Tensorflow
+
+- [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/)
+
+### Technology: AWS
+
+- [Ultimate AWS Certified Developer Associate 2021](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
+
+### Technology: GCP
+
+- [Ultimate Google Certified Processional Cloud Architect 2020](https://www.udemy.com/course/google-cloud-architect-certifications/)
+
+### Technology: Azure
+
+- [AZ-204 Developing for Microsoft Azure](https://www.udemy.com/course/70532-azure/)
+
+### Technology: Terraform
+
+- [Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/)
+
+### Technology: Rest API
+
+- [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/)
+
+### Technology: gRPC
+
+- [gRPC (Golang) Master Class](https://www.udemy.com/course/grpc-golang/)
+
+### Programming: Golang
+
+- [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/)
+
+- [The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_3?dchild=1&keywords=the+go+programming+language&qid=1624133815&sr=8-3)
+
+- [Go in practice](https://www.amazon.com/Go-Practice-Techniques-Matt-Butcher/dp/1633430073/ref=sr_1_1_sspa?dchild=1&keywords=go+in+practice&qid=1624133855&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSjA4OVVIMFNXM0RCJmVuY3J5cHRlZElkPUEwOTYxMjc2VkNOUUg5TVhEM0tBJmVuY3J5cHRlZEFkSWQ9QTA1OTA5MzQ2TzNVVEJJTFRNTzQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+
+- [Golan Tutorial](https://www.bogotobogo.com/GoLang/GoLang_HelloWorld.php)
+
+## Science: advanced machine learning
+
+- [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-g_TM.SFgPEE4Je3U4Uodig&siteID=vedj0cWlu2Y-g_TM.SFgPEE4Je3U4Uodig&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y#courses)
+
+- [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans?action=enroll&utm_campaign=EmailPartnerPromoGANs&utm_medium=institutions&utm_source=deeplearningai)
+
+- [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
+
+## Programming: practice coding
+
+- [Exercism](https://exercism.io/)
+
+- [Leetcode](https://leetcode.com/)
 
 ## Unclassified Learning Resources
 
-See [here](unclassified_resources.md) for other useful resources that are not classified (yet) in any of the responsibility.
+Useful resources that are not classified (yet) in any of the responsibility.
+
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+
+- [MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+
+- [The data engineering cookbook](https://github.com/andkret/Cookbook)
+
+- [Awesome CTO](https://github.com/kuchin/awesome-cto)
+
+- [Data Engineering Study Guide](https://docs.google.com/spreadsheets/d/1GOO4s1NcxCR8a44F0XnsErz5rYDxNbHAHznu4pJMRkw/edit?usp=sharing)
