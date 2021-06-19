@@ -61,7 +61,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - [Programming: python](#Programming-python)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn) 
         - [Technology: Docker](#Technology-Docker)
-        - Technology: Spark
+        - [Technology: Spark](#Technology-Spark)
         - Technology: AWS
         - Technology: Azure
         - Technology: GCP
@@ -168,6 +168,11 @@ For some `skill set`, I will include the resources that I find useful in improvi
 ### Technology: Docker
 
 - [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
+  - Status: Completed
+
+### Technology: Spark
+
+- [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
   - Status: Completed
 
 ## Unclassified Learning Resources
