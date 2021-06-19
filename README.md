@@ -58,7 +58,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Science: basic statistics
         - Science: basic machine learning
         - [Programming best practices](#Programming-best-practices)
-        - [Programming: python](#Programming:-python)
+        - [Programming: python](#Programming-python)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn) 
         - Technology: Docker
         - Technology: Spark
@@ -90,7 +90,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Science: basic statistics
         - Science: basic machine learning
         - Science: advanced machine learning
-        - [Programming: python](#Programming:-python)
+        - [Programming: python](#Programming-python)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn)
         - Technology: Tensorflow
         - Technology: PyTorch
@@ -111,7 +111,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Traditionally, this is what data scientists do.
     - Skill sets
         - [Programming best practices](#Programming-best-practices)
-        - [Programming: python](#Programming:-python)
+        - [Programming: python](#Programming-python)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn)
         - Technology: Tensorflow
         - Technology: PyTorch
@@ -129,7 +129,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
     - Skill sets
         - [Programming best practices](#Programming-best-practices)
         - Programming: System design
-        - [Programming: python](#Programming:-python)
+        - [Programming: python](#Programming-python)
         - Technology: Docker
         - Technology: Protobuf
         - Technology: AWS
