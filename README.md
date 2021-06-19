@@ -60,7 +60,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - [Programming best practices](#Programming-best-practices)
         - [Programming: python](#Programming-python)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn) 
-        - Technology: Docker
+        - [Technology: Docker](#Technology-Docker)
         - Technology: Spark
         - Technology: AWS
         - Technology: Azure
@@ -94,7 +94,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn)
         - Technology: Tensorflow
         - Technology: PyTorch
-        - Technology: Docker
+        - [Technology: Docker](#Technology-Docker)
         - Technology: AWS
         - Technology: Azure
         - Technology: GCP
@@ -115,7 +115,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn)
         - Technology: Tensorflow
         - Technology: PyTorch
-        - Technology: Docker
+        - [Technology: Docker](#Technology-Docker)
         - Technology: Protobuf
         - Technology: AWS
         - Technology: Azure
@@ -130,7 +130,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - [Programming best practices](#Programming-best-practices)
         - Programming: System design
         - [Programming: python](#Programming-python)
-        - Technology: Docker
+        - [Technology: Docker](#Technology-Docker)
         - Technology: Protobuf
         - Technology: AWS
         - Technology: Azure
@@ -163,6 +163,11 @@ For some `skill set`, I will include the resources that I find useful in improvi
   - Status: Paused
 
 - [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?crid=1N7X8LWWLACDA&dchild=1&keywords=fluent+python&qid=1624128911&s=books&sprefix=fluen%2Cstripbooks%2C165&sr=1-1)
+  - Status: Completed
+
+### Technology: Docker
+
+- [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
   - Status: Completed
 
 ## Unclassified Learning Resources
