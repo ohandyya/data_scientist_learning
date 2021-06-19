@@ -19,12 +19,19 @@ TBD
 
 - [SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/course/solid-principles-object-oriented-design-architecture/)
   - Completed on 6/7/2020
+  - [Certification](https://www.udemy.com/certificate/UC-cbb930a4-8c60-44a2-a936-0e49bf997f40/?utm_medium=email&utm_campaign=email&utm_source=sendgrid.com)
+
+- [Ultimate AWS Certified Developer Associate 2021](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
+  - Completed on 3/15/2020
+  - [Certification](https://www.udemy.com/certificate/UC-d4a02463-0e0f-4c2c-b1bf-3face9ae7c3b/)
 
 - [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/)
   - Completed on 2/11/2020
+  - [Certification](https://www.udemy.com/certificate/UC-ae669fca-cd31-4386-89a2-315f57c0c78b/)
 
 - [Spark and Python for Big Data with PySpark](https://www.udemy.com/course/spark-and-python-for-big-data-with-pyspark/)
   - Completed on 1/24/2020
+  - [Certification](https://www.udemy.com/certificate/UC-T8HD39QZ/)
 
 - [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=sr_1_1?crid=1N7X8LWWLACDA&dchild=1&keywords=fluent+python&qid=1624128911&s=books&sprefix=fluen%2Cstripbooks%2C165&sr=1-1)
 

@@ -62,7 +62,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn) 
         - [Technology: Docker](#Technology-Docker)
         - [Technology: Spark](#Technology-Spark)
-        - Technology: AWS
+        - [Technology: AWS](#Technology-AWS)
         - Technology: Azure
         - Technology: GCP
 2. Analyze data to extract business value
@@ -95,7 +95,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - [Technology: Tensorflow](#Technology-Tensorflow)
         - Technology: PyTorch
         - [Technology: Docker](#Technology-Docker)
-        - Technology: AWS
+        - [Technology: AWS](#Technology-AWS)
         - Technology: Azure
         - Technology: GCP
 4. Create a prototype
@@ -117,7 +117,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Technology: PyTorch
         - [Technology: Docker](#Technology-Docker)
         - Technology: Protobuf
-        - Technology: AWS
+        - [Technology: AWS](#Technology-AWS)
         - Technology: Azure
         - Technology: GCP
         - Technology: Rest API development
@@ -132,7 +132,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - [Programming: python](#Programming-python)
         - [Technology: Docker](#Technology-Docker)
         - Technology: Protobuf
-        - Technology: AWS
+        - [Technology: AWS](#Technology-AWS)
         - Technology: Azure
         - Technology: GCP
         - Technology: Rest API development
@@ -170,6 +170,10 @@ For some `skill set`, I will include the resources that I find useful in improvi
 ### Technology: Tensorflow
 
 - [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://www.udemy.com/course/complete-tensorflow-2-and-keras-deep-learning-bootcamp/)
+
+### Technology: AWS
+
+- [Ultimate AWS Certified Developer Associate 2021](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 
 ## Unclassified Learning Resources
 
