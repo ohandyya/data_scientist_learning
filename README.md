@@ -58,7 +58,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Science: basic statistics
         - Science: basic machine learning
         - [Programming best practices](#Programming-best-practices)
-        - Programming: python
+        - [Programming: python](#Programming:-python)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn) 
         - Technology: Docker
         - Technology: Spark
@@ -90,7 +90,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Science: basic statistics
         - Science: basic machine learning
         - Science: advanced machine learning
-        - Programming: python
+        - [Programming: python](#Programming:-python)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn)
         - Technology: Tensorflow
         - Technology: PyTorch
@@ -110,8 +110,8 @@ For some `skill set`, I will include the resources that I find useful in improvi
             4. Creating an stand-alone tool (say, a Docker image) for user to run the model locally
         - Traditionally, this is what data scientists do.
     - Skill sets
-        - Programming: write clean, maintainable, testable code.
-        - Programming: python
+        - [Programming best practices](#Programming-best-practices)
+        - [Programming: python](#Programming:-python)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn)
         - Technology: Tensorflow
         - Technology: PyTorch
@@ -127,8 +127,9 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Traditionally, this is what data engineers or software engineers do.
         - However, since the data scientist is the one who create the algorithm, it is inevitable for the data scientist to be heavily involved in the productionalization process. In some small-mid size companies, it is also not uncommon to ask the data scientist to write production code, or at least part of it.
     - Skill sets
-        - Programming: write clean, maintainable, testable code
+        - [Programming best practices](#Programming-best-practices)
         - Programming: System design
+        - [Programming: python](#Programming:-python)
         - Technology: Docker
         - Technology: Protobuf
         - Technology: AWS
