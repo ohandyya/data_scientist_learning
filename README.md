@@ -59,12 +59,13 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Science: basic machine learning
         - [Programming best practices](#Programming-best-practices)
         - [Programming: python](#Programming-python)
+        - [Programming: Golang](#Programming-Golang)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn) 
         - [Technology: Docker](#Technology-Docker)
         - [Technology: Spark](#Technology-Spark)
         - [Technology: AWS](#Technology-AWS)
-        - Technology: Azure
-        - Technology: GCP
+        - [Technology: Azure](#Technology-Azure)
+        - [Technology: GCP](#Technology-GCP)
 2. Analyze data to extract business value
     - Description
         - `Business value` may come in various forms. But the most common form is find answer for a particular business problem. For example, explain why the system behaves like this, what can be done to increase the revenue and reduce cost.
@@ -74,7 +75,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Good understanding of the business (what is valuable, what is the operation cost, etc)
         - Science: basic statistics
         - Science: basic machine learning
-        - Programming: python
+        - [Programming: python](#Programming-python)
         - Technology: data visualization
 3. Develop models for business problems
     - Description
@@ -89,15 +90,15 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - Good understanding of the business (what is valuable, what is the operation cost, etc)
         - Science: basic statistics
         - Science: basic machine learning
-        - Science: advanced machine learning
+        - [Science: advanced machine learning](#Science-advanced-machine-learning)
         - [Programming: python](#Programming-python)
         - Programming: python machine learning packages (numpy, scipy, pandas, scikit-learn)
         - [Technology: Tensorflow](#Technology-Tensorflow)
         - Technology: PyTorch
         - [Technology: Docker](#Technology-Docker)
         - [Technology: AWS](#Technology-AWS)
-        - Technology: Azure
-        - Technology: GCP
+        - [Technology: Azure](#Technology-Azure)
+        - [Technology: GCP](#Technology-GCP)
 4. Create a prototype
     - Description
         - There are two purposes for creating a prototype of the developed model.
@@ -118,10 +119,10 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - [Technology: Docker](#Technology-Docker)
         - Technology: Protobuf
         - [Technology: AWS](#Technology-AWS)
-        - Technology: Azure
-        - Technology: GCP
-        - Technology: Rest API development
-        - Technology: gRPC
+        - [Technology: Azure](#Technology-Azure)
+        - [Technology: GCP](#Technology-GCP)
+        - [Technology: Rest API](#Technology-Rest-API)
+        - [Technology: gRPC](#Technology-gRPC)
 5. Implement model in production
     - Description
         - Traditionally, this is what data engineers or software engineers do.
@@ -132,11 +133,12 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - [Programming: python](#Programming-python)
         - [Technology: Docker](#Technology-Docker)
         - Technology: Protobuf
+        - [Technology: Terraform](#Technology-Terraform)
         - [Technology: AWS](#Technology-AWS)
-        - Technology: Azure
-        - Technology: GCP
-        - Technology: Rest API development
-        - Technology: gRPC
+        - [Technology: Azure](#Technology-Azure)
+        - [Technology: GCP](#Technology-GCP)
+        - [Technology: Rest API](#Technology-Rest-API)
+        - [Technology: gRPC](#Technology-gRPC)
         - Technology: Databases
         - Technology: Kubernetes
         - Technology: Jenkins
@@ -152,6 +154,8 @@ For some `skill set`, I will include the resources that I find useful in improvi
 - [SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/course/solid-principles-object-oriented-design-architecture/)
 
 - [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
+
+-[The twelve-factor app](https://12factor.net/)
 
 ### Programming: python
 
@@ -175,6 +179,46 @@ For some `skill set`, I will include the resources that I find useful in improvi
 
 - [Ultimate AWS Certified Developer Associate 2021](https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/)
 
+### Technology: GCP
+
+- [Ultimate Google Certified Processional Cloud Architect 2020](https://www.udemy.com/course/google-cloud-architect-certifications/)
+
+### Technology: Azure
+
+- [AZ-204 Developing for Microsoft Azure](https://www.udemy.com/course/70532-azure/)
+
+### Technology: Terraform
+
+- [Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform/)
+
+### Technology: Rest API
+
+- [REST APIs with Flask and Python](https://www.udemy.com/course/rest-api-flask-and-python/)
+
+### Technology: gRPC
+
+- [gRPC (Golang) Master Class](https://www.udemy.com/course/grpc-golang/)
+
+### Programming: Golang
+
+- [Learn How To Code: Google's Go (golang) Programming Language](https://www.udemy.com/course/learn-how-to-code/)
+
+- [The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_3?dchild=1&keywords=the+go+programming+language&qid=1624133815&sr=8-3)
+
+- [Go in practice](https://www.amazon.com/Go-Practice-Techniques-Matt-Butcher/dp/1633430073/ref=sr_1_1_sspa?dchild=1&keywords=go+in+practice&qid=1624133855&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSjA4OVVIMFNXM0RCJmVuY3J5cHRlZElkPUEwOTYxMjc2VkNOUUg5TVhEM0tBJmVuY3J5cHRlZEFkSWQ9QTA1OTA5MzQ2TzNVVEJJTFRNTzQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+
+## Science: advanced machine learning
+
+- [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-g_TM.SFgPEE4Je3U4Uodig&siteID=vedj0cWlu2Y-g_TM.SFgPEE4Je3U4Uodig&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y#courses)
+
 ## Unclassified Learning Resources
 
-See [here](unclassified_resources.md) for other useful resources that are not classified (yet) in any of the responsibility.
+Useful resources that are not classified (yet) in any of the responsibility.
+
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+
+- [MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+
+- [The data engineering cookbook](https://github.com/andkret/Cookbook)
+
+- [Awesome CTO](https://github.com/kuchin/awesome-cto)
