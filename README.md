@@ -157,6 +157,10 @@ For some `skill set`, I will include the resources that I find useful in improvi
 
 -[The twelve-factor app](https://12factor.net/)
 
+### Programming: System design
+
+- [AWS Lambda & Serverless Architecture](https://www.udemy.com/course/aws-lambda-serverless-architecture/)
+
 ### Programming: python
 
 - [Python Cookbook](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377/ref=sr_1_3?crid=JQTU3RVB4T97&dchild=1&keywords=python+cookbook&qid=1624128807&sprefix=python+cook%2Caudible%2C159&sr=8-3)
@@ -207,9 +211,21 @@ For some `skill set`, I will include the resources that I find useful in improvi
 
 - [Go in practice](https://www.amazon.com/Go-Practice-Techniques-Matt-Butcher/dp/1633430073/ref=sr_1_1_sspa?dchild=1&keywords=go+in+practice&qid=1624133855&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSjA4OVVIMFNXM0RCJmVuY3J5cHRlZElkPUEwOTYxMjc2VkNOUUg5TVhEM0tBJmVuY3J5cHRlZEFkSWQ9QTA1OTA5MzQ2TzNVVEJJTFRNTzQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 
+- [Golan Tutorial](https://www.bogotobogo.com/GoLang/GoLang_HelloWorld.php)
+
 ## Science: advanced machine learning
 
 - [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml?ranMID=40328&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-g_TM.SFgPEE4Je3U4Uodig&siteID=vedj0cWlu2Y-g_TM.SFgPEE4Je3U4Uodig&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=vedj0cWlu2Y#courses)
+
+- [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans?action=enroll&utm_campaign=EmailPartnerPromoGANs&utm_medium=institutions&utm_source=deeplearningai)
+
+- [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)
+
+## Programming: practice coding
+
+- [Exercism](https://exercism.io/)
+
+- [Leetcode](https://leetcode.com/)
 
 ## Unclassified Learning Resources
 
@@ -222,3 +238,5 @@ Useful resources that are not classified (yet) in any of the responsibility.
 - [The data engineering cookbook](https://github.com/andkret/Cookbook)
 
 - [Awesome CTO](https://github.com/kuchin/awesome-cto)
+
+- [Data Engineering Study Guide](https://docs.google.com/spreadsheets/d/1GOO4s1NcxCR8a44F0XnsErz5rYDxNbHAHznu4pJMRkw/edit?usp=sharing)
