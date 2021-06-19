@@ -1,10 +1,25 @@
 # Personal Learning Progress
 
-## Current Priority
+## Priority
 
-TBD
+### Current
+
+- Go Language
+
+- Data structure and algorithms
+
+- System architecture
+
+### Next
+
+- Practice coding
+
+- Learn Azure
 
 ## Active
+
+- [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
+  - Start date: 6/19/2021
 
 - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?crid=34434EFXB4FPV&dchild=1&keywords=clean+architecture&qid=1624128513&sprefix=clean+architcture%2Caps%2C165&sr=8-1)
   - Start date: 6/1/2021
@@ -14,9 +29,9 @@ TBD
 
 ## Paused
 
-- [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
-
 - [Python Cookbook](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377/ref=sr_1_3?crid=JQTU3RVB4T97&dchild=1&keywords=python+cookbook&qid=1624128807&sprefix=python+cook%2Caudible%2C159&sr=8-3)
+
+- [Leetcode](https://leetcode.com/)
 
 ## Completed
 
@@ -73,3 +88,5 @@ TBD
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?crid=6NFNMM3E5U9T&dchild=1&keywords=the+pragmatic+programmer&qid=1624128656&sprefix=The+pragmatic+%2Caps%2C164&sr=8-1)
 
 - [AZ-204 Developing for Microsoft Azure](https://www.udemy.com/course/70532-azure/)
+
+- [MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
