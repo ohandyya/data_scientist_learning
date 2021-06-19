@@ -129,7 +129,7 @@ For some `skill set`, I will include the resources that I find useful in improvi
         - However, since the data scientist is the one who create the algorithm, it is inevitable for the data scientist to be heavily involved in the productionalization process. In some small-mid size companies, it is also not uncommon to ask the data scientist to write production code, or at least part of it.
     - Skill sets
         - [Programming best practices](#Programming-best-practices)
-        - Programming: System design
+        - [Programming: System design](#Programming-System-design)
         - [Programming: python](#Programming-python)
         - [Technology: Docker](#Technology-Docker)
         - Technology: Protobuf
