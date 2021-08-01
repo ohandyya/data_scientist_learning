@@ -155,7 +155,9 @@ For some `skill set`, I will include the resources that I find useful in improvi
 
 - [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
 
--[The twelve-factor app](https://12factor.net/)
+- [The twelve-factor app](https://12factor.net/)
+
+- [How To Become An Outstanding Solution Architect](https://www.udemy.com/course/how-to-become-an-outstanding-solution-architect/)
 
 ### Programming: System design
 
