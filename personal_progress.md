@@ -2,12 +2,21 @@
 
 ## Priority
 
-## Active
+## Active Learning
+
+- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?crid=6NFNMM3E5U9T&dchild=1&keywords=the+pragmatic+programmer&qid=1624128656&sprefix=The+pragmatic+%2Caps%2C164&sr=8-1)
+  - Start date: 8/2/2021
 
 - [Go in practice](https://www.amazon.com/Go-Practice-Techniques-Matt-Butcher/dp/1633430073/ref=sr_1_1_sspa?dchild=1&keywords=go+in+practice&qid=1624133855&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSjA4OVVIMFNXM0RCJmVuY3J5cHRlZElkPUEwOTYxMjc2VkNOUUg5TVhEM0tBJmVuY3J5cHRlZEFkSWQ9QTA1OTA5MzQ2TzNVVEJJTFRNTzQmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
   - Start date: 4/1/2021
 
-### Next
+## Backlog Pool
+
+- [AZ-204 Developing for Microsoft Azure](https://www.udemy.com/course/70532-azure/)
+
+- [MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+
+- [How To Become An Outstanding Solution Architect](https://www.udemy.com/course/how-to-become-an-outstanding-solution-architect/)
 
 - [The Complete Data Structures and Algorithms Course in Python](https://www.udemy.com/course/data-structures-and-algorithms-bootcamp-in-python/)
   - Start date: 6/19/2021
@@ -17,8 +26,6 @@
   - Use both Python and Golang to solve the problem.
 
 - Learn Azure
-
-## Paused
 
 - [Python Cookbook](https://www.amazon.com/Python-Cookbook-Third-David-Beazley/dp/1449340377/ref=sr_1_3?crid=JQTU3RVB4T97&dchild=1&keywords=python+cookbook&qid=1624128807&sprefix=python+cook%2Caudible%2C159&sr=8-3)
 
@@ -77,11 +84,3 @@
 - [Docker Mastery: with Kubernetes +Swarm from a Docker Captain](https://www.udemy.com/course/docker-mastery/)
 
 - [The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440/ref=sr_1_3?dchild=1&keywords=the+go+programming+language&qid=1624133815&sr=8-3)
-
-## Backlog
-
-- [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Anniversary-Journey-Mastery/dp/B0833FBNHV/ref=sr_1_1?crid=6NFNMM3E5U9T&dchild=1&keywords=the+pragmatic+programmer&qid=1624128656&sprefix=The+pragmatic+%2Caps%2C164&sr=8-1)
-
-- [AZ-204 Developing for Microsoft Azure](https://www.udemy.com/course/70532-azure/)
-
-- [MLOps Specialization](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
