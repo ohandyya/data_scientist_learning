@@ -33,6 +33,10 @@
 
 ## Completed
 
+- [Build REST APIs with Django REST Framework and Python](https://www.udemy.com/course/django-rest-framework/)
+  - Start date: 12/12/2022
+  - End date: 1/27/2023  
+
 - [Clean Architecture: A Craftsman's Guide to Software Structure and Design](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164/ref=sr_1_1?crid=34434EFXB4FPV&dchild=1&keywords=clean+architecture&qid=1624128513&sprefix=clean+architcture%2Caps%2C165&sr=8-1)
   - Start date: 6/1/2021
   - End date: 8/2/2021
